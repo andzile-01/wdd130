@@ -1,0 +1,41 @@
+
+
+.comfortaa {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300px;
+  font-style: normal;
+}
+
+
+.playwrite {
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+  color: aqua;
+}
+html{
+    max-width: 500px;
+}
+
+.hero {
+    position: relative;
+   }
+   
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto; 
+   }
+h1, article{
+    position: absolute;
+   }
+
+article p{
+  float: left;
+}
+.hero img{
+  float: right;
+
+}

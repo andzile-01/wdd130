@@ -32,8 +32,10 @@ h1, article{
 
 article p{
   float: left;
+  clear: both;
 }
 .hero img{
   float: right;
+  position: absolute;
 
 }

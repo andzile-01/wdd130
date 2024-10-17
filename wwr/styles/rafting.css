@@ -40,18 +40,36 @@ article{
   background-color: skyblue;
   opacity: .5;
 }
-.Top {
-  float: right;
-  padding-right: 100px;
-  padding-top: 100px;
-  word-spacing: 20px;
-}
+
 a {
   text-decoration: none;
 }
 
 .sociallinks {
-  padding-right: 50px;
-  padding-inline-start: 20px;
+  padding-right: 250px;
+  float: right;
 
+}
+.top {
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-left:25px ;
+  word-spacing: 20px;
+  display:-moz-grid-line ;
+}
+header{
+  display: flex;
+  background-color: aqua;
+  margin: solid;
+}
+.top a:hover{
+  color: whitesmoke;
+}
+.history{
+  font-style: italic;
+  color: darkgrey;
+  column-count: 3;
+}
+footer{
+  text-align: center;
 }

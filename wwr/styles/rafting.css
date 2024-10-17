@@ -55,7 +55,7 @@ a {
   padding-top: 100px;
   padding-left:25px ;
   word-spacing: 20px;
-  display:-moz-inline-grid ;
+  display:inline ;
 }
 header{
   display: flex;

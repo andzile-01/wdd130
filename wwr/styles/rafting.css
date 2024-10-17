@@ -38,7 +38,7 @@ article p{
 }
 article{
   background-color: skyblue;
-  opacity: green;
+  opacity: .5;
 }
 .Top {
   float: right;

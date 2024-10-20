@@ -18,6 +18,7 @@
     color: aqua;
     padding: 20px 20px 20px 20px;
 }
+
 .hero {
   position: relative;
 }
@@ -72,4 +73,20 @@ header{
 }
 footer{
   text-align: center;
+  padding-top: 300px;
+
+}
+button{
+  color: red;
+}
+.contact{
+  color: darkred;
+}
+figcaption{
+  font-size: medium;
+}
+form{
+  background-color: bisque;
+  font-weight: bold;
+  color: black;
 }

@@ -61,7 +61,6 @@ a {
 header{
   display: flex;
   background-color: aqua;
-  margin: solid;
 }
 .top a:hover{
   color: whitesmoke;
